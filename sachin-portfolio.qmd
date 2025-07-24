@@ -1,0 +1,86 @@
+---
+title: "Sachin Kumar Pal – MBA Student Portfolio"
+format: html
+editor: visual
+---
+
+#  About Me
+
+Hello! I'm **Sachin Kumar Pal**, a passionate and detail-oriented MBA candidate at **University Canada West** with a solid foundation in commerce and over three years of administrative experience. I bring a combination of strategic thinking, organizational efficiency, and leadership to business environments. I am currently enhancing my skills in data analysis, project management, and business strategy to prepare for a future role as a **Data Analyst in Canada**.
+
+_MBA Candidate | Former Executive Admin | Aspiring Data Analyst_
+
+---
+
+#  Education
+
+**Master of Business Administration (MBA)**  
+*University Canada West, Vancouver*  
+_Expected Graduation: September 2026_
+
+**Bachelor of Commerce (B.Com)**  
+*Recognized University College Benra*  
+_Graduated: 2020_
+
+---
+
+#  Professional Experience
+
+**Executive Admin**  
+*Hi Tech Water Solutions Pvt. Ltd.*  
+_Duration: March 2023 – May 2024_  
+- Managed procurement records, vendor communications, and compliance paperwork.  
+- Coordinated meetings and logistics for internal and external stakeholders.  
+- Supported cross-functional teams in improving operational workflows.
+
+**Administrative Assistant**  
+*Techfuge*  
+_Duration: July 2021 – February 2023_  
+- Maintained scheduling, records, and communications for the executive team.  
+- Facilitated internal documentation, digital filing, and reporting systems.  
+- Developed rapport with staff and clients, contributing to smoother operations.
+
+---
+
+#  Key Skills
+
+- Administrative Operations  
+- Data Analysis (Excel, Power BI, basic SQL)  
+- Project Coordination  
+- Communication & Interpersonal Skills  
+- Problem Solving  
+- Attention to Detail  
+- Adaptability & Teamwork
+
+---
+
+#  Contact
+
+📧 Email: sachin.pal1273@myucw.ca  
+
+📍 Location: Vancouver, BC, Canada
+
+---
+
+# 📎 Appendix: LLM-Generated Draft & Commentary
+
+## LLM-Generated Draft (Outline + Sample Text)
+
+**Prompt Used:**  
+_"Create an outline and sample text for a one-page MBA student portfolio."_  
+
+**Generated Outline:**  
+1. About Me  
+2. Education  
+3. Experience  
+4. Skills  
+5. Contact Info  
+
+**Sample Text Snippet (LLM Output):**  
+> “I am an MBA student with a background in commerce and administrative experience. My goal is to apply analytical skills to solve real-world business problems in a data-driven role...”  
+
+## Commentary
+
+I used the LLM-generated outline as the foundation for my portfolio structure. However, I significantly revised the content to reflect my real experiences and voice. I rewrote the bio to sound more authentic, added specific job roles with actual tasks, and personalized the skills section based on my real strengths. I also ensured clarity, relevance, and a professional tone throughout.
+
+---

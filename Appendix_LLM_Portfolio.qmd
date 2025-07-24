@@ -1,0 +1,47 @@
+---
+title: "Appendix – LLM Draft & Commentary for MBA Portfolio"
+author: "Sachin Kumar Pal"
+date: "2025-07-23"
+format: pdf
+---
+
+#  Appendix: LLM-Generated Draft & Commentary
+
+##  Prompt Used
+
+> "Create an outline and sample text for a one-page MBA student portfolio."
+
+---
+
+##  LLM-Generated Outline
+
+1. About Me  
+2. Education  
+3. Experience  
+4. Skills  
+5. Contact Info
+
+---
+
+##  LLM Sample Text (Excerpt)
+
+> "I am an MBA student with a background in commerce and administrative experience. My goal is to apply analytical skills to solve real-world business problems in a data-driven role."
+
+---
+
+##  Commentary on Revisions
+
+I used the outline provided by the LLM as the basic structure for my MBA portfolio. However, I made several key modifications:
+
+- **About Me:** Rewritten completely to reflect my actual academic and professional journey, with a tone that sounds more personal and intentional.
+- **Education and Experience:** Real dates, institutions, and job descriptions were added to replace the generic placeholders.
+- **Skills:** The LLM gave no detailed input here, so I curated the list based on my actual strengths (e.g., administrative operations, data tools).
+- **Contact Section:** Filled in accurate and active contact details.
+
+These changes ensured my portfolio is both **authentic** and **professionally relevant** while still benefiting from the initial structure provided by the LLM.
+
+---
+
+##  Summary
+
+The LLM helped me quickly scaffold my portfolio layout and tone, but I made all edits to ensure it represents my real profile, personality, and career direction.
